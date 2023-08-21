@@ -1,3 +1,9 @@
+![Resigro de tiempos](./Registro_de_tiempos.png)
+
+![Clasificacion](./Clasificacion.png)
+
+![Segmentos](./Segmentos.png)
+
 # Time Control for Cycling Time Trials / Control de Tiempos para Contrarreloj de Ciclismo
 
 # Español
