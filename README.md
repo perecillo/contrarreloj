@@ -35,7 +35,7 @@ La pestaña "Clasificación" muestra la clasificación de la prueba en tiempo re
 
 ## Uso y Licencia
 
-Este documento ha sido creado utilizando Google Spreadsheet y se ha compartido con las personas encargadas de medir los tiempos en la II Cronoescalada "Luis Narro" con recorrido Valtablado - Alto de Ocentejo, el 19 de agosto de 2023.
+Este documento ha sido creado utilizando Google Spreadsheet para la II Cronoescalada "Luis Narro" celebrada entre los pueblos de Valtablado - Alto de Ocentejo, el 19 de agosto de 2023.
 
 La licencia de uso es abierta.
 
@@ -61,6 +61,6 @@ The "Ranking" tab displays the real-time ranking of the event as participant dat
 
 ## Usage and License
 
-This document has been created using Google Spreadsheet and has been shared with individuals responsible for timing measurements in the "II Cronoescalada 'Luis Narro'" event with the route from Valtablado to Alto de Ocentejo, on August 19, 2023.
+This document has been created using Google Spreadsheet in the "II Cronoescalada 'Luis Narro'" event with the route from Valtablado to Alto de Ocentejo, on August 19, 2023.
 
 The usage license is open.
