@@ -4,15 +4,15 @@ Example: https://docs.google.com/spreadsheets/d/1WyR_exUssD-gp5SXpRjEmRpnC5CJvkg
 
 ## Hoja de registro de tiempos / Time Record Sheet
 
-![Resigro de tiempos](./Registro_de_tiempos.png)
+![Resigro de tiempos](./imagenes/Registro_de_tiempos.png)
 
 ## Clasificación / Ranking
 
-![Clasificacion](./Clasificacion.png)
+![Clasificacion](./imagenes/Clasificacion.png)
 
 ## Segmentos / Segments
 
-![Segmentos](./Segmentos.png)
+![Segmentos](./imagenes/Segmentos.png)
 
 
 # Español
