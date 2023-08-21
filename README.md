@@ -1,10 +1,19 @@
+# Time Control for Cycling Time Trials / Control de Tiempos para Contrarreloj de Ciclismo
+
+Example: https://docs.google.com/spreadsheets/d/1WyR_exUssD-gp5SXpRjEmRpnC5CJvkggv2fzYTZsKYM/edit?usp=sharing
+
+##Hoja de registro de tiempos / Time Record Sheet
+
 ![Resigro de tiempos](./Registro_de_tiempos.png)
+
+##Clasificación / Ranking
 
 ![Clasificacion](./Clasificacion.png)
 
+##Segmentos / Segments
+
 ![Segmentos](./Segmentos.png)
 
-# Time Control for Cycling Time Trials / Control de Tiempos para Contrarreloj de Ciclismo
 
 # Español
 
